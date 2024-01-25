@@ -15,6 +15,7 @@
    python virtual environment)
 
    - `npm install && pip install -r requirements.txt` - dev-build dependencies
+     (for npm install make sure you are in frontend directory)
    - `pre-commit install` - pre-commit hooks
 
 4. Periodically update your branch

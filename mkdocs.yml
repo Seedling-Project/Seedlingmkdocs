@@ -16,12 +16,11 @@ theme:
     - search.suggest
     - search.share
     - header.autohide
-  palette: 
-
+  palette:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -37,7 +36,7 @@ extra:
       link: https://github.com/ImmaculateDivinity/SeedlingEducation
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
@@ -58,9 +57,10 @@ extra:
             I'll do better, just you see..
 
 nav:
-  - Home: 'index.md'
+  - Home: "index.md"
   - Getting Started: getstarted.md
-
+  - Frontend: frontend.md
+  - Backend: backend.md
 
 copyright: >
   Copyright &copy; 2022 SeedlingsEducation –
